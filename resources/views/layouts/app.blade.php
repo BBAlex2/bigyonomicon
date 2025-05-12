@@ -156,7 +156,7 @@
                 <a href="{{ route('store' )}}" class="my-auto"><span class="nav-link clr-light">Áruház</span></a>
                 <a href="{{ route('contact' )}}" class="my-auto"><span class="nav-link clr-light">Kapcsolat</span></a>
                 <a href="{{ route('cart' )}}" class="my-auto"><span class="nav-link clr-light">Kosár</span></a>
-                <a href="#" class="my-auto" id="no-internet-text"><span class="nav-link clr-red">No Internet Connection</span></a>
+                <a href="#" class="my-auto" id="no-internet-text"><span class="nav-link clr-red">Internetmentes Zóna</span></a>
             </div>
             <div class="col-0 col-lg-7 text-end d-none d-lg-block h-full">
                 <p class="clr-gray my-auto">© Copyright <b>Bigyonomicon Eurasia Zrt.</b> Minden jog fenntartva.</p>
