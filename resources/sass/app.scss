@@ -1,0 +1,174 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=cinzel');
+@import url('https://fonts.bunny.net/css?family=metamorphous');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+//Bootstrap icons
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+.font-large {
+    font-family: 'Cinzel';
+    font-weight: bold;
+}
+
+.btn-yellow {
+    background-color: $yellow-500;
+}
+.btn-yellow:hover {
+    background-color: $yellow-600;
+    transition: background-color 0.4s;
+}
+.btn-yellow:active {
+    background-color: $yellow-600;
+    transition: background-color 0.2s;
+}
+.btn-darkyellow {
+    background-color: $yellow-700;
+}
+.btn-darkyellow:hover {
+    background-color: $yellow-800;
+    transition: background-color 0.4s;
+}
+.btn-darkyellow:active {
+    background-color: $yellow-800;
+    transition: background-color 0.2s;
+}
+.btn-orange {
+    background-color: $orange-500;
+}
+.btn-orange:hover {
+    background-color: $orange-600;
+    transition: background-color 0.4s;
+}
+.btn-orange:active {
+    background-color: $orange-700;
+    transition: background-color 0.2s;
+}
+.btn-darkorange {
+    background-color: $orange-700;
+}
+.btn-darkorange:hover {
+    background-color: $orange-800;
+    transition: background-color 0.4s;
+}
+.btn-darkorange:active {
+    background-color: $orange-800;
+    transition: background-color 0.2s;
+}
+
+.btn-gray {
+    background-color: $gray-600;
+}
+.btn-gray:hover {
+    background-color: $gray-700;
+    transition: background-color 0.4s;
+}
+.btn-gray:active {
+    background-color: $gray-700;
+    transition: background-color 0.2s;
+}
+.btn-red {
+    background-color: $red-600;
+}
+.btn-red:hover {
+    background-color: $red-700;
+    transition: background-color 0.4s;
+}
+.btn-red:active {
+    background-color: $red-700;
+    transition: background-color 0.2s;
+}
+.btn-green {
+    background-color: $green-600;
+}
+.btn-green:hover {
+    background-color: $green-700;
+    transition: background-color 0.4s;
+}
+.btn-green:active {
+    background-color: $green-700;
+    transition: background-color 0.2s;
+}
+
+.clr-yellow {
+    color: $yellow-500;
+}
+.clr-darkyellow {
+    color: $yellow-700;
+}
+.clr-orange {
+    color: $orange-500;
+}
+.clr-darkorange {
+    color: $orange-700;
+}
+
+.bg-black {
+    background-color: $gray-900;
+}
+.bg-dark {
+    background-color: $gray-800;
+}
+.bg-navbargray {
+    background-color: rgb(58, 62, 66);
+}
+.bg-darkgray {
+    background-color: $gray-700;
+}
+.bg-gray {
+    background-color: $gray-600;
+}
+.bg-light {
+    background-color: $gray-200;
+}
+.clr-black {
+    color: $gray-900;
+}
+a.clr-black:hover {
+    color: $gray-900;
+}
+.clr-dark {
+    color: $gray-800;
+}
+a.clr-dark:hover {
+    color: $gray-800;
+}
+.clr-navbargray {
+    color: rgb(58, 62, 66);
+}
+a.clr-dark:hover {
+    color: $gray-800;
+}
+.clr-darkgray {
+    color: $gray-700;
+}
+a.clr-darkgray:hover {
+    color: $gray-800;
+}
+.clr-gray {
+    color: $gray-600;
+}
+a.clr-gray:hover {
+    color: $gray-700;
+}
+.clr-light {
+    color: $gray-200;
+}
+a.clr-light:hover {
+    color: $gray-300;
+}
+.btn.clr-light:hover {
+    color: $gray-300;
+}
+
+.clr-red {
+    color: $red-400;
+}
+.clr-green {
+    color: $green-400;
+}

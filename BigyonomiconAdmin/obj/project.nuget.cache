@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GWJW5vy5OUM6MtrT0AUIp0B1svV7R4zpeSs5tljCHptedu8fGDGalQGE8EosF7cXSW4JUQKtsvKjsJHIgz9fJA==",
+  "success": true,
+  "projectFilePath": "C:\\xampp\\htdocs\\LaravelProjektek\\bigyonomicon-main\\BigyonomiconAdmin\\BigyonomiconAdmin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barta\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

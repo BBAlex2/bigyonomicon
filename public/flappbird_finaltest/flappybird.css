@@ -1,0 +1,37 @@
+body{
+font-family: 'Courier New', Courier, monospace;
+background-color: rgb(86, 240, 39);
+text-align: center;
+margin: 0px;
+}
+#board{
+/*background-color: skyblue;*/
+background-image: url("./flappy-bird-background_2.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+position: relative;
+margin-left: auto;
+margin-right: auto;
+z-index: 1;
+/* overflow: auto; */
+}
+#restart{
+display: none;
+z-index:2;
+position: absolute;
+top: 50%;
+left: 50%;
+width: 5rem;
+transform: translate(-50%, -50%);;
+padding: 5px;
+cursor: pointer;
+}
+#container{
+position: relative;
+display: flex;
+justify-content: center;
+width: 100%;
+margin-top: 10px;
+height: auto;
+}

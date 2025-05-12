@@ -1,0 +1,160 @@
+app.css
+
+.navbarLogo {
+    position: absolute;
+    height: 400%;
+    max-height: 50vh;
+    transform: translateX(-50%) translateY(-30%);
+}
+.navbarTitle:hover{
+    filter: brightness(66%);
+    transition: filter 0.3s;
+}
+
+.nav-link:hover {
+    color: #eba61b !important;
+    transition: color 0.3s;
+}
+.nav-link:active {
+    color: #8a6315 !important;
+    transition: color 0.3s;
+}
+
+app.scss
+
+//Bootstrap icons
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+.font-large {
+    font-family: 'Cinzel';
+    font-weight: bold;
+}
+
+.btn-yellow {
+    background-color: $yellow-500;
+}
+.btn-yellow:hover {
+    background-color: $yellow-600;
+    transition: background-color 0.4s;
+}
+.btn-yellow:active {
+    background-color: $yellow-700;
+    transition: background-color 0.2s;
+}
+.btn-darkyellow {
+    background-color: $yellow-700;
+}
+.btn-darkyellow:hover {
+    background-color: $yellow-800;
+    transition: background-color 0.4s;
+}
+.btn-darkyellow:active {
+    background-color: $yellow-900;
+    transition: background-color 0.2s;
+}
+.btn-orange {
+    background-color: $orange-500;
+}
+.btn-orange:hover {
+    background-color: $orange-600;
+    transition: background-color 0.4s;
+}
+.btn-orange:active {
+    background-color: $orange-700;
+    transition: background-color 0.2s;
+}
+.btn-darkorange {
+    background-color: $orange-700;
+}
+.btn-darkorange:hover {
+    background-color: $orange-800;
+    transition: background-color 0.4s;
+}
+.btn-darkorange:active {
+    background-color: $orange-900;
+    transition: background-color 0.2s;
+}
+
+.btn-gray {
+    background-color: $gray-600;
+}
+.btn-gray:hover {
+    background-color: $gray-700;
+    transition: background-color 0.4s;
+}
+.btn-gray:active {
+    background-color: $gray-800;
+    transition: background-color 0.2s;
+}
+.btn-red {
+    background-color: $red-600;
+}
+.btn-red:hover {
+    background-color: $red-700;
+    transition: background-color 0.4s;
+}
+.btn-red:active {
+    background-color: $red-800;
+    transition: background-color 0.2s;
+}
+.btn-green {
+    background-color: $green-600;
+}
+.btn-green:hover {
+    background-color: $green-700;
+    transition: background-color 0.4s;
+}
+.btn-green:active {
+    background-color: $green-800;
+    transition: background-color 0.2s;
+}
+
+.clr-yellow {
+    color: $yellow-500;
+}
+.clr-darkyellow {
+    color: $yellow-700;
+}
+.clr-orange {
+    color: $orange-500;
+}
+.clr-darkorange {
+    color: $orange-700;
+}
+
+.bg-black {
+    background-color: $gray-900;
+}
+.bg-dark {
+    background-color: $gray-800;
+}
+.bg-navbargray {
+    background-color: rgb(58, 62, 66);
+}
+.bg-darkgray {
+    background-color: $gray-700;
+}
+.bg-gray {
+    background-color: $gray-600;
+}
+.bg-light {
+    background-color: $gray-200;
+}
+.clr-black {
+    color: $gray-900;
+}
+.clr-dark {
+    color: $gray-800;
+}
+.clr-navbargray {
+    color: rgb(58, 62, 66);
+}
+.clr-darkgray {
+    color: $gray-700;
+}
+.clr-gray {
+    color: $gray-600;
+}
+.clr-light {
+    color: $gray-200;
+}

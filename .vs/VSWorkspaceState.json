@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\resources",
+    "\\resources\\css",
+    "\\resources\\js",
+    "\\resources\\sass",
+    "\\resources\\views",
+    "\\resources\\views\\auth",
+    "\\resources\\views\\layouts",
+    "\\resources\\views\\main",
+    "\\routes"
+  ],
+  "PreviewInSolutionExplorer": false
+}

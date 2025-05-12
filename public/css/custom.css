@@ -1,0 +1,86 @@
+/* Custom colors */
+.clr-yellow {
+    color: #ffc107 !important;
+}
+
+.clr-orange {
+    color: #fd7e14 !important;
+}
+
+.clr-red {
+    color: #dc3545 !important;
+}
+
+.clr-green {
+    color: #28a745 !important;
+}
+
+.clr-light {
+    color: #f8f9fa !important;
+}
+
+.clr-gray {
+    color: #6c757d !important;
+}
+
+.clr-dark {
+    color: #343a40 !important;
+}
+
+.clr-black {
+    color: #000 !important;
+}
+
+/* Button colors */
+.btn-yellow {
+    background-color: #ffc107 !important;
+    border-color: #ffc107 !important;
+}
+
+.btn-green {
+    background-color: #28a745 !important;
+    border-color: #28a745 !important;
+}
+
+.btn-gray {
+    background-color: #6c757d !important;
+    border-color: #6c757d !important;
+}
+
+.btn-red {
+    background-color: #dc3545 !important;
+    border-color: #dc3545 !important;
+}
+
+/* Background colors */
+.bg-yellow {
+    background-color: #ffc107 !important;
+}
+
+.bg-orange {
+    background-color: #fd7e14 !important;
+}
+
+.bg-red {
+    background-color: #dc3545 !important;
+}
+
+.bg-green {
+    background-color: #28a745 !important;
+}
+
+.bg-light {
+    background-color: #f8f9fa !important;
+}
+
+.bg-gray {
+    background-color: #6c757d !important;
+}
+
+.bg-dark {
+    background-color: #343a40 !important;
+}
+
+.bg-black {
+    background-color: #000 !important;
+}
